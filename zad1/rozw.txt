@@ -1,0 +1,11 @@
+Thu Jan 21 08:08:30 UTC 2021
+total 28
+drwxrwxr-x 2 s96471 s96471 4096 Jan 21 08:07 zad1
+drwxrwxr-x 2 s96471 s96471 4096 Jan 20 20:50 zad2
+drwxrwxr-x 2 s96471 s96471 4096 Jan 20 20:52 zad3
+drwxrwxr-x 2 s96471 s96471 4096 Jan 20 20:52 zad4
+drwxrwxr-x 2 s96471 s96471 4096 Jan 20 20:52 zad5
+drwxrwxr-x 2 s96471 s96471 4096 Jan 20 20:52 zad6
+drwxrwxr-x 2 s96471 s96471 4096 Jan 20 20:52 zad7
+date - wyswietla date
+ls -l wyswietla informacje o konsoli
