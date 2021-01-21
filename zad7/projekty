@@ -1,0 +1,22 @@
+#!bin/bash
+larg=$#
+echo "uruchomiono z liczba argumentow: $larg"
+if [ $larg = 2 ]; then 
+   echo "Podano 2 argumenty"
+   echo "Argument1: $1"
+   echo "Argument2: $2"
+   if [ -d "$1" ]; then
+      echo "poprawny"
+   else
+      echo "nie poprawny"
+fi 
+mkdir ./$2
+mkdir ./$2/materialy/oficjalne
+mkdir ./$2/materialy/robocze
+mkdir ./$2/src
+mkdir ./$2/dokumentacja
+mkdir ./$2/dokumentacja/uzytkownicy
+mkdir ./$2/dokumentacja/admin
+else
+   echo "podano inna liczbe argumentow"
+fi
